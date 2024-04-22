@@ -42,7 +42,7 @@ nav{
     align-items: stretch;
     background-color: #fafafa;
     padding-top: 50px;
-    flex-shrink:1;
+    flex-wrap:wrap;
     
 }
 .cardleft{
