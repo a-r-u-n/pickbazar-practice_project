@@ -39,9 +39,10 @@ nav{
 }
 .mainpage{
     justify-content: space-around;
-  align-items: stretch;
+    align-items: stretch;
     background-color: #fafafa;
     padding-top: 50px;
+    flex-shrink:1;
     
 }
 .cardleft{
